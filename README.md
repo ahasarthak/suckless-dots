@@ -14,7 +14,7 @@ A clean and minimal rice featuring dwm, slstatus, st, and rofi, enhanced with tm
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/suckless-dots.git
+   git clone https://github.com/ahasarthak/suckless-dots.git
    cd suckless-dots
    ```
 
