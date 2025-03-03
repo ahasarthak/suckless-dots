@@ -6,7 +6,7 @@ A clean and minimal rice featuring dwm, slstatus, st, and rofi, enhanced with tm
 
 ## 🖼️ Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot/screenshot.png)
 
 ---
 
